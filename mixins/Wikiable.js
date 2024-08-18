@@ -1,5 +1,5 @@
-const mixer = require('../../../../../core/shared/mixer')
-const Propertiable = require('../../../../../core/shared/mixins/Propertiable')
+const mixer = require('sools-core/mixer')
+const Propertiable = require('sools-core/mixins/Propertiable')
 const Markdown = require('sools-modeling/types/Markdown')
 
 module.exports = mixer.mixin([Propertiable], (base) => {
