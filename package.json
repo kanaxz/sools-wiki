@@ -1,6 +1,6 @@
 {
  "name": "sools-wiki",
- "version": "1.13.0",
+ "version": "1.14.0",
  "description": "",
  "main": "index.js",
  "scripts": {
@@ -9,8 +9,8 @@
  "author": "",
  "license": "ISC",
  "dependencies": {
-  "sools-core": "^1.15.0",
-  "sools-modeling": "^1.17.0"
+  "sools-core": "^1.16.0",
+  "sools-modeling": "^1.18.0"
  },
  "repository": {
   "type": "git",
